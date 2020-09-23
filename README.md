@@ -1,5 +1,5 @@
-# DPP
-A C++ Library interfacing Discord API, or should i say... C++ Discord API Wrapper.
+# Discord.cpp
+A C++ Discord API Wrapper.
 
 ## Dependencies
 - [JSON](https://github.com/nlohmann/json)
@@ -58,6 +58,7 @@ int main() {
 }
 ```
 
+### License
 ```
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
