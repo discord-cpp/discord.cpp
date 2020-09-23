@@ -24,7 +24,7 @@ cmake .. -DCMAKE_TOOLCHAIN_FILE=/use/what/integrate/install/gives
 make
 ```
 
-## Example
+## Usage
 ```cpp
 #include "attachment.hpp"
 #include "bot.hpp"
