@@ -14,7 +14,7 @@ A C++ Discord API Wrapper.
 ### Prerequisites
 - [Vcpkg](https://github.com/microsoft/vcpkg#getting-started)
 - [Git](https://git-scm.com/downloads)
-- [Cmake](https://cmake.org)
+- [CMake](https://cmake.org)
 - [Makefile](http://gnuwin32.sourceforge.net/packages/make.htm)
 
 ### Installing
